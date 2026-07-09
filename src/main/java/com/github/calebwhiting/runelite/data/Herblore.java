@@ -408,7 +408,7 @@ public interface Herblore
 		Ingredient POISON_IVY_BERRIES = new Ingredient(ItemID.POISON_IVY_BERRIES);
 		Ingredient NIHIL_DUST = new Ingredient(ItemID.NIHIL_DUST);
 		Ingredient LAVA_SCALE_SHARD = new Ingredient(ItemID.LAVA_SCALE_SHARD);
-		Ingredient ARAXYTE_VENOM_SACK = new Ingredient(ItemID.ARAXYTE_VENOM_SACK);
+		Ingredient ARAXYTE_VENOM_SACK = new Ingredient(ItemID.ARAXYTE_VENOM_SAC);
 		Ingredient CRYSTAL_DUST = new Ingredient(ItemID.CRYSTAL_DUST);
 		Ingredient CRUSHED_SUPERIOR_DRAGON_BONES = new Ingredient(ItemID.CRUSHED_SUPERIOR_DRAGON_BONES);
 		Ingredient ZULRAHS_SCALES = new Ingredient(ItemID.ZULRAHS_SCALES);
